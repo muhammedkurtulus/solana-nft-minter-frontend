@@ -1,12 +1,6 @@
-# Next.js - TypeScript - Solana/web3.js
+# Next.js - TypeScript - Solana - Chakra UI
 
 Build an NFT minter front-end
-
-## Built with
-
-| Framework                                     | Description                                            |
-| --------------------------------------------- | ------------------------------------------------------ |
-| [Next.js](https://www.npmjs.com/package/next) | A framework for building fast and responsive web apps. |
 
 ## Getting Started
 
